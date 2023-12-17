@@ -7,7 +7,7 @@
  * @authorId 557388558017495046
  * @authorLink https://github.com/Lonk12/
  * @source https://github.com/Lonk12/BetterDiscordPlugins/blob/main/MemeSounds/MemeSounds.plugin.js
- * @updateUrl https://raw.githubusercontent.com/Lonk12/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/DABONURDAD/ExtraMemeSounds/main/MemeSounds/MemeSounds.plugin.js
  */
 
 module.exports = (() => {
@@ -36,8 +36,8 @@ module.exports = (() => {
 				{re: /bazinga/gmi, file: "bazinga.mp3", duration: 550},
 				{re: /oof/gmi, file: "oof.mp3", duration: 250},
 				{re: /bruh/gmi, file: "bruh.mp3", duration: 470},
-				{re: /🗿/gmi, file: "moyai.mp3", duration: 100}
-				{re: /moai/gmi, file: "moyai.mp3", duration: 100}
+				{re: /🗿/gmi, file: "moyai.mp3", duration: 100},
+				{re: /moai/gmi, file: "moyai.mp3", duration: 100},
 			        {re: /moyai/gmi, file: "moyai.mp3", duration: 100}
 			];
 
